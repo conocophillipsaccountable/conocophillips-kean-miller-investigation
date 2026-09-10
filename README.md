@@ -3,7 +3,7 @@
 > **Public evidence tracker, legal timelines, official records, and open-source documentation investigating the ConocoPhillips and Kean Miller corporate oversight matter.**
 
 [![Substack Update](https://img.shields.io/badge/Substack-Read%20Full%20Investigation-ff6719?style=for-the-badge&logo=substack)](https://copkeanmilleroversight.substack.com/p/conocophillipskean-miller-scheme)
-[![License: Public Domain](https://img.shields.io/badge/License-Public%20Domain-blue.svg?style=for-the-badge)](LICENSE)
+[![View NLRB Docket Participant Profile](https://shields.io)](https://www.nlrb.gov/case/16-CA-375538)
 
 ---
 
