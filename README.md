@@ -82,7 +82,6 @@ This repository indexes official records, filings, regulatory complaints, and pu
     </td>
   </tr>
 </table>
-*Scott Huffstetler is listed on the public docket as a representative for ConocoPhillips.*
 ---
 
 ## ⚖️ Statutory & Legal Framework Index
