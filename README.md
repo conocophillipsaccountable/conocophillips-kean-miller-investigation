@@ -3,8 +3,8 @@
 > **Public evidence tracker, legal timelines, official records, and open-source documentation investigating the ConocoPhillips and Kean Miller corporate oversight matter.**
 
 [![Substack Update](https://img.shields.io/badge/Substack-Read%20Full%20Investigation-ff6719?style=for-the-badge&logo=substack)](https://copkeanmilleroversight.substack.com/p/conocophillipskean-miller-scheme)
-<br><a href="https://nlrb.gov" target="_blank">
-  <img src="https://shields.io" alt="Red to White Case Button" />
+<br><a href="[https://nlrb.gov](https://www.nlrb.gov/case/16-CA-375538)" target="_blank">
+  <img src="https://ibb.co" width="240" alt="View NLRB Case Docket" />
 </a>
 <br>
 *Scott Huffstetler is listed on the public docket as a representative for ConocoPhillips.*
