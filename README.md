@@ -21,17 +21,7 @@ Mirroring published investigative reports and public records from the official p
 * **Attorney Misconduct & Bar Grievances:** Monitoring formal administrative, ethics, and disciplinary proceedings involving outside defense counsel and corporate legal officers.
 * **Public Record Archive & Police Dispositions:** Maintaining a permanent open-source mirror of public records, law enforcement agency dispositions, regulatory submissions, and formal legal correspondence.
 * **Whistleblower Protection Tracking:** Chronologically tracking complaints filed under federal and state administrative oversight statutes.
-<br>
-<table>
-  <tr>
-    <td bgcolor="#D12B2B" align="center" style="padding: 10px 20px; border-radius: 4px;">
-      <a href="https://www.nlrb.gov/case/16-CA-375538" target="_blank" style="color: #FFFFFF; text-decoration: none; font-weight: bold; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-        VIEW NLRB CASE DOCKET
-      </a>
-    </td>
-  </tr>
-</table>
-*Scott Huffstetler is listed on the public docket as a representative for ConocoPhillips.*
+
 ---
 
 ## 🗂️ Comprehensive Entity & Individual Name Index
@@ -83,6 +73,16 @@ This repository indexes official records, filings, regulatory complaints, and pu
 * **Occupational Safety and Health Administration** (OSHA) – Whistleblower Protection Program
 * **United States Federal & State Administrative Tribunals**
 
+<table>
+  <tr>
+    <td bgcolor="#D12B2B" align="center" style="padding: 10px 20px; border-radius: 4px;">
+      <a href="https://www.nlrb.gov/case/16-CA-375538" target="_blank" style="color: #FFFFFF; text-decoration: none; font-weight: bold; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+        VIEW NLRB CASE DOCKET
+      </a>
+    </td>
+  </tr>
+</table>
+*Scott Huffstetler is listed on the public docket as a representative for ConocoPhillips.*
 ---
 
 ## ⚖️ Statutory & Legal Framework Index
