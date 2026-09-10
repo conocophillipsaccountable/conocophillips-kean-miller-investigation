@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td bgcolor="#D12B2B" align="center" style="padding: 10px 20px; border-radius: 4px;">
-      <a href="[https://nlrb.gov](https://www.nlrb.gov/case/16-CA-375538)" target="_blank" style="color: #FFFFFF; text-decoration: none; font-weight: bold; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+      <a href="https://www.nlrb.gov/case/16-CA-375538" target="_blank" style="color: #FFFFFF; text-decoration: none; font-weight: bold; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
         VIEW NLRB CASE DOCKET
       </a>
     </td>
@@ -15,16 +15,6 @@
 </table>
 <br>
 *Scott Huffstetler is listed on the public docket as a representative for ConocoPhillips.*
-
-<table>
-  <tr>
-    <td bgcolor="#D12B2B" align="center" style="padding: 10px 20px; border-radius: 4px;">
-      <a href="[https://nlrb.gov](https://www.nlrb.gov/case/16-CA-375538)" target="_blank" style="color: #FFFFFF; text-decoration: none; font-weight: bold; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-        VIEW NLRB CASE DOCKET
-      </a>
-    </td>
-  </tr>
-</table>
 
 ---
 
