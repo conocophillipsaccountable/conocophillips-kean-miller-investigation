@@ -3,7 +3,7 @@
 > **Public evidence tracker, legal timelines, official records, and open-source documentation investigating the ConocoPhillips and Kean Miller corporate oversight matter.**
 
 [![Substack Update](https://img.shields.io/badge/Substack-Read%20Full%20Investigation-ff6719?style=for-the-badge&logo=substack)](https://copkeanmilleroversight.substack.com/p/conocophillipskean-miller-scheme)
-<br>[ ▶️ View Official NLRB Profile: Scott Huffstetler (ConocoPhillips Co. Counsel) ](https://www.nlrb.gov/case/16-CA-375538)
+<br>[▶️ NLRB Representative Profile: Scott Huffstetler](https://www.nlrb.gov/case/16-CA-375538)
 
 ---
 
