@@ -3,11 +3,28 @@
 > **Public evidence tracker, legal timelines, official records, and open-source documentation investigating the ConocoPhillips and Kean Miller corporate oversight matter.**
 
 [![Substack Update](https://img.shields.io/badge/Substack-Read%20Full%20Investigation-ff6719?style=for-the-badge&logo=substack)](https://copkeanmilleroversight.substack.com/p/conocophillipskean-miller-scheme)
-<br><a href="[https://nlrb.gov](https://www.nlrb.gov/case/16-CA-375538)" target="_blank">
-  <img src="https://ibb.co" width="240" alt="View NLRB Case Docket" />
-</a>
+<br>
+<table>
+  <tr>
+    <td bgcolor="#D12B2B" align="center" style="padding: 10px 20px; border-radius: 4px;">
+      <a href="[https://nlrb.gov](https://www.nlrb.gov/case/16-CA-375538)" target="_blank" style="color: #FFFFFF; text-decoration: none; font-weight: bold; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+        VIEW NLRB CASE DOCKET
+      </a>
+    </td>
+  </tr>
+</table>
 <br>
 *Scott Huffstetler is listed on the public docket as a representative for ConocoPhillips.*
+
+<table>
+  <tr>
+    <td bgcolor="#D12B2B" align="center" style="padding: 10px 20px; border-radius: 4px;">
+      <a href="[https://nlrb.gov](https://www.nlrb.gov/case/16-CA-375538)" target="_blank" style="color: #FFFFFF; text-decoration: none; font-weight: bold; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+        VIEW NLRB CASE DOCKET
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
